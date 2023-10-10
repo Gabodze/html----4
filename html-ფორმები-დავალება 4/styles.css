@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/Inter-Bold.ttf);
+}
+
+
+
+
+h1{
+    margin-top: 24px;
+    margin-left: 19px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 25px;
+
+}
+
+
+
+label{
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: left;
+
+}
+form{
+    margin-left: 11px;
+}
